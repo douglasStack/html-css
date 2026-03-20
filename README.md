@@ -3,3 +3,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
+<a href=" https://douglasstack.github.io/html-css/Exercicio/ex-03/index.html">Executar o exercicio 03 </a>
